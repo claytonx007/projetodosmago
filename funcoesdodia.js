@@ -12,11 +12,11 @@ function calcular(saldo) {
     } else if (saldo <= 100) {
         return "lendario";
     } else if (saldo >= 101) {
-        return "diamante";
+        return "imortal";
     }
 }
 
-// Exemplo de uso
-let saldo = 30;
+// Exemplo
+let saldo = 500;
 let nivel = calcular(saldo);
 console.log("Você tem " + saldo + " vitórias e está no Nível " + nivel);
