@@ -1,12 +1,12 @@
-let magobolado = "Veigar"
-let niveldomago = 9020;
+let magobolado = "clayton"
+let niveldomago = 500;
 
 
 let nivel1 = "ferro"
 let nivel2 = "bronze"
 let nivel3 = "Prata"
 let nivel4 = "ouro"
-let nivel5 = "pratina"
+let nivel5 = "platina"
 let nivel6 = "acendente"
 let nivel7 = "imortal"
 let nivel8 = "radiante"
